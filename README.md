@@ -3,5 +3,7 @@ Gra w ktorej poruszamy sie postacia ktora przemieszcza sie po poziomej plaszczyz
 >**Klasy:**
 
 -klasa postaci,
+
 -klasa haku,
+
 -klasa sceny
